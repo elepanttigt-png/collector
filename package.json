@@ -1,6 +1,7 @@
 {
-  "name": "collector",
+  "name": "eni-collector",
   "version": "1.0.0",
+  "description": "ENI Auto-Stealer Collector Endpoint",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
